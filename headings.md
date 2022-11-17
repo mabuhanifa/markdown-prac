@@ -11,3 +11,7 @@
 ###### Heading 6
 
 <!-- Alternative Headings -->
+
+# Heading 1
+
+## Heading 2

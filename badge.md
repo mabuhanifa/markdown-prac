@@ -1,1 +1,1 @@
-[<img src="https://img.shields.io/badge/Shourov-hello-green">]("youtube.com" "youtube")
+[<img src="https://img.shields.io/badge/Shourov-hello-green" target=”_blank”>]("youtube.com" "youtube")
